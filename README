@@ -1,0 +1,20 @@
+Beltway Rage
+------------
+
+The Capital Beltway, I-495, which circles Washington DC, is home to
+some of the absolute worst traffic in the US.  Every single day,
+without fail, there are horrible backups and slowdowns, morning, noon
+and night.  You might wonder, what are all those people doing while
+they sit in traffic?  What are their hopes, wants and wishes?  And who
+is the *angriest* of them all?
+
+Let's find out!  Beltway Rage monitors traffic conditions on the
+Beltway and other DC metro area roads.  It then listens for tweets
+originating from the roads and finds the most hilarious ones by
+performing sentiment analysis.
+
+
+-----
+Michael Lieberman
+mike.d.lieberman@gmail.com
+
